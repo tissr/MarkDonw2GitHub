@@ -2,5 +2,5 @@
 	# 用户名
 	"GitHubUserName": "zhaoolee", 
 	# 用户密码
-	"GitHubPassWord": "Git19951208zhao"
+	"GitHubPassWord": "github"
 }
